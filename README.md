@@ -1,4 +1,4 @@
-Mjaor Prject Topic : DSAvisualizer
+Major Project Topic : DSAvisualizer
 ========
 
 Motivation
